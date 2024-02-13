@@ -1,0 +1,27 @@
+body {
+	padding: 30px 12%;
+	word-wrap: break-word;
+	font-family: Georgia;
+	font-size: 14pt;
+	line-height: 1.5;
+	color: #111;
+}
+
+p.heading {
+	font-variant: small-caps;
+}
+
+span.verse {
+	font-size: 80%;
+}
+
+span.caps {
+	text-transform: uppercase;
+}
+
+hr {
+	height: 1px;
+	border: none;
+	background-color: #ccc;
+	margin: 30px 0;
+}
